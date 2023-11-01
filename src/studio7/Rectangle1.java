@@ -58,6 +58,11 @@ public class Rectangle1 {
 	}
 
 
+	public String areaCheck(double initArea)
+	{
+		return "rectangle1 is larger than rectangle2.";
+	}
+	
 
 	public static void main(String[] args)
 	{
