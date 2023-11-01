@@ -66,6 +66,7 @@ public class Rectangle1 {
 
 
 		rectangle1.print();
+		
 		rectangle2.print();
 		rectangle1.rectangleCheck();
 		rectangle2.rectangleCheck();
